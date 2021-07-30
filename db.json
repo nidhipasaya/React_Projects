@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "name": "shubham",
+      "birthdate": "2017-02-01",
+      "address": "Palanpur",
+      "gender": "Male",
+      "college": "Marywood University",
+      "hobbies": [
+        {
+          "title": "Gaming",
+          "isSelected": true
+        },
+        {
+          "title": ""
+        },
+        {
+          "title": "Teamwork"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Nidhi",
+      "birthdate": "1999-06-17",
+      "address": "Palanpur",
+      "gender": "Male",
+      "college": "DAV Institute of Engineering & Technology",
+      "hobbies": [
+        {
+          "title": "Gaming",
+          "isSelected": true
+        },
+        {
+          "title": ""
+        },
+        {
+          "title": ""
+        },
+        {
+          "title": ""
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Maitri",
+      "birthdate": "2017-03-07",
+      "address": "Vadodara",
+      "gender": "Female",
+      "college": "Marine Biological Laboratory",
+      "hobbies": [
+        {
+          "title": "Gaming",
+          "isSelected": true
+        },
+        {
+          "title": "Traveling",
+          "isSelected": true
+        },
+        {
+          "title": "Drawing",
+          "isSelected": true
+        },
+        {
+          "title": ""
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Harshit",
+      "birthdate": "2014-02-01",
+      "address": "Surat",
+      "gender": "Male",
+      "college": "Maharaja Sayajirao University of Baroda",
+      "hobbies": [
+        {
+          "title": "Music"
+        }
+      ],
+      "id": 4
+    }
+  ]
+}
